@@ -1,0 +1,181 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.sleepwell"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.VIBRATE" />
+11-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:5:5-66
+11-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:5:22-63
+12    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+12-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:6:5-77
+12-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:6:22-74
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:7:5-79
+13-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:7:22-76
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:8:5-81
+14-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:8:22-78
+15    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+15-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:9:5-79
+15-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:9:22-76
+16
+17    <application
+17-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:11:5-71:19
+18        android:allowBackup="true"
+18-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:12:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.7.0] C:\Users\张嘉慧\.gradle\caches\transforms-3\9df45a95e4e06a011612ef3452b5826c\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+20        android:dataExtractionRules="@xml/data_extraction_rules"
+20-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:13:9-65
+21        android:debuggable="true"
+22        android:fullBackupContent="@xml/backup_rules"
+22-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:14:9-54
+23        android:icon="@mipmap/ic_launcher"
+23-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:15:9-43
+24        android:label="@string/app_name"
+24-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:16:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:17:9-54
+26        android:statusBarColor="@color/deep_blue"
+26-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:18:9-50
+27        android:supportsRtl="true"
+27-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:19:9-35
+28        android:theme="@style/Theme.SleepWell" >
+28-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:20:9-47
+29        <activity
+29-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:22:9-30:20
+30            android:name="com.example.sleepwell.SleepReportActivity"
+30-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:23:13-48
+31            android:exported="false"
+31-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:24:13-37
+32            android:label="@string/title_activity_sleep_report"
+32-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:25:13-64
+33            android:theme="@style/Theme.SleepWell" >
+33-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:26:13-51
+34            <meta-data
+34-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:27:13-29:36
+35                android:name="android.app.lib_name"
+35-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:28:17-52
+36                android:value="" />
+36-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:29:17-33
+37        </activity>
+38
+39        <service
+39-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:32:9-36:63
+40            android:name="com.example.sleepwell.SleepWellService"
+40-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:33:13-45
+41            android:enabled="true"
+41-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:34:13-35
+42            android:exported="true"
+42-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:35:13-36
+43            android:foregroundServiceType="connectedDevice" />
+43-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:36:13-60
+44
+45        <receiver
+45-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:38:9-41:39
+46            android:name="com.example.sleepwell.TimerBroadcastReceiver"
+46-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:39:13-51
+47            android:enabled="true"
+47-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:40:13-35
+48            android:exported="true" />
+48-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:41:13-36
+49
+50        <activity
+50-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:43:9-49:20
+51            android:name="com.example.sleepwell.MainActivity"
+51-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:44:13-41
+52            android:exported="true" >
+52-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:45:13-36
+53            <meta-data
+53-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:27:13-29:36
+54                android:name="android.app.lib_name"
+54-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:28:17-52
+55                android:value="" />
+55-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:29:17-33
+56        </activity>
+57        <activity
+57-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:50:9-58:20
+58            android:name="com.example.sleepwell.LoginActivity"
+58-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:51:13-42
+59            android:exported="true" >
+59-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:52:13-36
+60            <intent-filter>
+60-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:53:13-57:29
+61                <action android:name="android.intent.action.MAIN" />
+61-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:54:17-69
+61-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:54:25-66
+62
+63                <category android:name="android.intent.category.LAUNCHER" />
+63-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:56:17-77
+63-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:56:27-74
+64            </intent-filter>
+65        </activity>
+66        <activity
+66-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:59:9-61:39
+67            android:name="com.example.sleepwell.RegisterActivity"
+67-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:60:13-45
+68            android:exported="true" />
+68-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:61:13-36
+69        <activity
+69-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:62:9-64:39
+70            android:name="com.example.sleepwell.MusicPlayerActivity"
+70-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:63:13-48
+71            android:exported="true" />
+71-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:64:13-36
+72        <activity
+72-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:65:9-67:39
+73            android:name="com.example.sleepwell.EditNoteActivity"
+73-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:66:13-45
+74            android:exported="true" />
+74-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:67:13-36
+75        <activity
+75-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:68:9-70:39
+76            android:name="com.example.sleepwell.EditPostActivity"
+76-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:69:13-45
+77            android:exported="true" />
+77-->D:\In class\dasanshang\develop mobile\SleepWell\SleepWell\app\src\main\AndroidManifest.xml:70:13-36
+78
+79        <uses-library
+79-->[androidx.window:window:1.0.0] C:\Users\张嘉慧\.gradle\caches\transforms-3\e65b8465f5bac02dec998c398cfe1021\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+80            android:name="androidx.window.extensions"
+80-->[androidx.window:window:1.0.0] C:\Users\张嘉慧\.gradle\caches\transforms-3\e65b8465f5bac02dec998c398cfe1021\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+81            android:required="false" />
+81-->[androidx.window:window:1.0.0] C:\Users\张嘉慧\.gradle\caches\transforms-3\e65b8465f5bac02dec998c398cfe1021\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+82        <uses-library
+82-->[androidx.window:window:1.0.0] C:\Users\张嘉慧\.gradle\caches\transforms-3\e65b8465f5bac02dec998c398cfe1021\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+83            android:name="androidx.window.sidecar"
+83-->[androidx.window:window:1.0.0] C:\Users\张嘉慧\.gradle\caches\transforms-3\e65b8465f5bac02dec998c398cfe1021\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+84            android:required="false" />
+84-->[androidx.window:window:1.0.0] C:\Users\张嘉慧\.gradle\caches\transforms-3\e65b8465f5bac02dec998c398cfe1021\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+85
+86        <provider
+86-->[androidx.emoji2:emoji2:1.0.0] C:\Users\张嘉慧\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+87            android:name="androidx.startup.InitializationProvider"
+87-->[androidx.emoji2:emoji2:1.0.0] C:\Users\张嘉慧\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+88            android:authorities="com.example.sleepwell.androidx-startup"
+88-->[androidx.emoji2:emoji2:1.0.0] C:\Users\张嘉慧\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+89            android:exported="false" >
+89-->[androidx.emoji2:emoji2:1.0.0] C:\Users\张嘉慧\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+90            <meta-data
+90-->[androidx.emoji2:emoji2:1.0.0] C:\Users\张嘉慧\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+91                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+91-->[androidx.emoji2:emoji2:1.0.0] C:\Users\张嘉慧\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+92                android:value="androidx.startup" />
+92-->[androidx.emoji2:emoji2:1.0.0] C:\Users\张嘉慧\.gradle\caches\transforms-3\890798958823e1ddb9191fb82e555b3f\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+93            <meta-data
+93-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\张嘉慧\.gradle\caches\transforms-3\98559743d14cc19cc4c8b0530b0c3c74\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+94                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+94-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\张嘉慧\.gradle\caches\transforms-3\98559743d14cc19cc4c8b0530b0c3c74\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+95                android:value="androidx.startup" />
+95-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\张嘉慧\.gradle\caches\transforms-3\98559743d14cc19cc4c8b0530b0c3c74\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+96        </provider>
+97    </application>
+98
+99</manifest>

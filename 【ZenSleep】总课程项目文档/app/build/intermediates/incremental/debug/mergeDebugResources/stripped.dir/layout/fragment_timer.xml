@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/bg9">
+
+    <!-- 初始选择休息时间布局 -->
+    <LinearLayout
+        android:id="@+id/initial_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/text_select_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="选择休息时间（分钟）"
+            android:textColor="@android:color/white"
+            android:textSize="25sp"
+            android:layout_marginTop="80dp"
+            android:layout_gravity="center"/>
+
+        <NumberPicker
+            android:id="@+id/number_picker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:id="@+id/text_wake_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="将在 {唤醒时间} 唤醒你"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:layout_gravity="center"
+            android:layout_marginTop="16dp"/>
+
+        <Button
+            android:id="@+id/button_start_timer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="开始计时"
+            android:layout_gravity="center"
+            android:layout_marginTop="16dp"/>
+    </LinearLayout>
+
+    <!-- 倒计时页面布局 -->
+    <LinearLayout
+        android:id="@+id/countdown_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/text_countdown"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="剩余时间："
+            android:textColor="@android:color/white"
+            android:textSize="24sp"
+            android:layout_gravity="center"/>
+
+        <Button
+            android:id="@+id/button_cancel_timer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="取消计时"
+            android:layout_gravity="center"
+            android:layout_marginTop="16dp"/>
+    </LinearLayout>
+</LinearLayout>

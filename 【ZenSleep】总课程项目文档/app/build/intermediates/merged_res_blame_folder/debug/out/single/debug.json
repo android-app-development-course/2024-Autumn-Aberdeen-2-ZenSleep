@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_ic_music1.png.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/ic_music1.png"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/raw_song1.mp3.flat",
+        "source": "com.example.sleepwell.app-main-40:/raw/song1.mp3"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_edit_text_background.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/edit_text_background.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/layout_item_message.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/layout/item_message.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.sleepwell.app-main-40:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_bg7.jpg.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/bg7.jpg"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_ic_notes1.png.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/ic_notes1.png"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sleepwell.app-main-40:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_ic_timer1.png.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/ic_timer1.png"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_bg10.jpg.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/bg10.jpg"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_music1.png.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/music1.png"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_background_image.png.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/background_image.png"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/layout_activity_login.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/layout_item_comment.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/layout/item_comment.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/navigation_nav_graph.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/layout_activity_music_player.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/layout/activity_music_player.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/layout_item_post.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/layout/item_post.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/layout_item_image.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/layout/item_image.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_ic_tou.jpg.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/ic_tou.jpg"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_bg17.jpg.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/bg17.jpg"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/layout_fragment_notes.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/layout/fragment_notes.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_bg11.jpg.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/bg11.jpg"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_message_background.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/message_background.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_bg8.jpg.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/bg8.jpg"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_ic_profile1.png.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/ic_profile1.png"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.sleepwell.app-main-40:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sleepwell.app-main-40:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/layout_activity_edit_post.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/layout/activity_edit_post.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.sleepwell.app-main-40:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_ic_nap1.png.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/ic_nap1.png"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sleepwell.app-main-40:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_bg14.jpg.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/bg14.jpg"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_bg16.jpg.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/bg16.jpg"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/layout_fragment_timer.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/layout/fragment_timer.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_music3.png.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/music3.png"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/layout_fragment_music.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/layout/fragment_music.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/layout_fragment_profile.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.sleepwell.app-main-40:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_bg13.jpg.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/bg13.jpg"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/layout_fragment_nap.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/layout/fragment_nap.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sleepwell.app-main-40:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/layout_activity_edit_note.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/layout/activity_edit_note.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/raw_song3.mp3.flat",
+        "source": "com.example.sleepwell.app-main-40:/raw/song3.mp3"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_bg9.jpg.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/bg9.jpg"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.sleepwell.app-pngs-33:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/raw_song2.mp3.flat",
+        "source": "com.example.sleepwell.app-main-40:/raw/song2.mp3"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_bg15.jpg.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/bg15.jpg"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/xml_backup_rules.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.sleepwell.app-main-40:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/layout_dialog_input_message.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/layout/dialog_input_message.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_bg12.jpg.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/bg12.jpg"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/layout_activity_register.xml.flat",
+        "source": "com.example.sleepwell.app-main-40:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_music2.png.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/music2.png"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/drawable_bg6.webp.flat",
+        "source": "com.example.sleepwell.app-main-40:/drawable/bg6.webp"
+    },
+    {
+        "merged": "com.example.sleepwell.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sleepwell.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]

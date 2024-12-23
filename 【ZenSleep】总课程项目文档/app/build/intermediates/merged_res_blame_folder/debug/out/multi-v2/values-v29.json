@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.sleepwell.app-mergeDebugResources-36:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "D:\\In class\\dasanshang\\develop mobile\\SleepWell\\SleepWell\\app\\src\\main\\res\\values-v29\\themes.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "136",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "468"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "337"
+                    }
+                }
+            ]
+        }
+    ]
+}

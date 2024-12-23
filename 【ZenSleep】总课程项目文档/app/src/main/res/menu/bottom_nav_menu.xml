@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_notes"
+        android:icon="@drawable/ic_notes1"
+        android:title="记录" />
+    <item
+        android:id="@+id/navigation_timer"
+        android:icon="@drawable/ic_timer1"
+        android:title="闹钟" />
+    <item
+        android:id="@+id/navigation_music"
+        android:icon="@drawable/ic_music1"
+        android:title="助眠" />
+    <item
+        android:id="@+id/navigation_nap"
+        android:icon="@drawable/ic_nap1"
+        android:title="社区" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_profile1"
+        android:title="我的" />
+</menu>

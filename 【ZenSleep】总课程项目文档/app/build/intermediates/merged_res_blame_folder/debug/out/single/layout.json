@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.example.sleepwell.app-mergeDebugResources-37:/layout/activity_login.xml",
+        "source": "com.example.sleepwell.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-mergeDebugResources-37:/layout/dialog_input_message.xml",
+        "source": "com.example.sleepwell.app-main-40:/layout/dialog_input_message.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-mergeDebugResources-37:/layout/activity_main.xml",
+        "source": "com.example.sleepwell.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-mergeDebugResources-37:/layout/fragment_timer.xml",
+        "source": "com.example.sleepwell.app-main-40:/layout/fragment_timer.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-mergeDebugResources-37:/layout/fragment_music.xml",
+        "source": "com.example.sleepwell.app-main-40:/layout/fragment_music.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-mergeDebugResources-37:/layout/fragment_nap.xml",
+        "source": "com.example.sleepwell.app-main-40:/layout/fragment_nap.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-mergeDebugResources-37:/layout/activity_register.xml",
+        "source": "com.example.sleepwell.app-main-40:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-mergeDebugResources-37:/layout/activity_edit_post.xml",
+        "source": "com.example.sleepwell.app-main-40:/layout/activity_edit_post.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-mergeDebugResources-37:/layout/fragment_notes.xml",
+        "source": "com.example.sleepwell.app-main-40:/layout/fragment_notes.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-mergeDebugResources-37:/layout/activity_music_player.xml",
+        "source": "com.example.sleepwell.app-main-40:/layout/activity_music_player.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-mergeDebugResources-37:/layout/fragment_profile.xml",
+        "source": "com.example.sleepwell.app-main-40:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-mergeDebugResources-37:/layout/item_post.xml",
+        "source": "com.example.sleepwell.app-main-40:/layout/item_post.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-mergeDebugResources-37:/layout/activity_edit_note.xml",
+        "source": "com.example.sleepwell.app-main-40:/layout/activity_edit_note.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-mergeDebugResources-37:/layout/item_message.xml",
+        "source": "com.example.sleepwell.app-main-40:/layout/item_message.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-mergeDebugResources-37:/layout/item_comment.xml",
+        "source": "com.example.sleepwell.app-main-40:/layout/item_comment.xml"
+    },
+    {
+        "merged": "com.example.sleepwell.app-mergeDebugResources-37:/layout/item_image.xml",
+        "source": "com.example.sleepwell.app-main-40:/layout/item_image.xml"
+    }
+]
